@@ -1,0 +1,10 @@
+Content\stage.xnb
+Content\bar.xnb
+Content\ball.xnb
+Content\blue.xnb
+Content\timer.xnb
+Content\score.xnb
+Content\number.xnb
+Content\ending.xnb
+Content\title2.xnb
+Content\clear.xnb

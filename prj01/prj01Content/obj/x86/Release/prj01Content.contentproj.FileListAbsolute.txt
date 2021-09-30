@@ -1,0 +1,2 @@
+C:\K013A2065\prj01\prj01\prj01Content\obj\x86\Release\prj01Content.contentprojResolveAssemblyReference.cache
+C:\K013A2065\簡易ブロック崩し\prj01\prj01\prj01Content\obj\x86\Release\prj01Content.contentprojResolveAssemblyReference.cache
